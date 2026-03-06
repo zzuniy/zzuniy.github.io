@@ -1,13 +1,14 @@
 ---
-title: "Chirpy 마크다운 기능 총정리"
+title: "Jekyll Git Blog 마크다운 기능 총정리 - Chirpy 테마"
 date: 2026-03-06
-categories: [Tutorial, Markdown]
-tags: [Chirpy, Markdown, TOC]
+categories: [Tutorial, blog]
+tags: [chirpy, markdown, blog, gitblog, jekyll]
 toc: true
 comments: true
 ---
 
 안녕하세요! 오늘은 **Chirpy 블로그에서 쓸 수 있는 마크다운 기능**을 하나씩 정리하면서 예시와 함께 보여드리려고 합니다.  
+
 저처럼 처음 Chirpy를 접하는 분들도 쉽게 따라 할 수 있도록, **텍스트 스타일, 목록, 링크, 이미지, 코드 블록**까지 모두 담았습니다.
 
 ---
@@ -69,10 +70,6 @@ Chirpy에서는 링크와 이미지를 쉽게 삽입할 수 있습니다.
 `print("Hello, Chirpy!")`  
 > 예시 코드: `` `print("Hello, Chirpy!")` ``
 
-### 여러 줄 코드
-
-```python
-def hello():
-    print("Hello, Chirpy!")
-
-hello()
+---
+Jekyll의 chirpy 테마  마크다운 작성법을 소개해 드렸습니다. 
+도움이  되셨길 바라며, 다음글로 찾아뵙겠습니다! 
