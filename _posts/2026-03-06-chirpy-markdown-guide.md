@@ -5,6 +5,7 @@ categories: [Tutorial, blog]
 tags: [chirpy, markdown, blog, gitblog, jekyll]
 toc: true
 comments: true
+image: /assets/images/sample.jpg
 ---
 
 안녕하세요! 오늘은 **Chirpy 블로그에서 쓸 수 있는 마크다운 기능**을 하나씩 정리하면서 예시와 함께 보여드리려고 합니다.  
@@ -57,7 +58,7 @@ Chirpy에서는 링크와 이미지를 쉽게 삽입할 수 있습니다.
 
 ![샘플 이미지](/assets/images/sample.jpg)  
 > 이미지는 `/assets/images/` 폴더 안에 넣는 것을 권장합니다.  
-> 예시 코드: `![샘플 이미지](/assets/images/sample.jpg)`
+> 예시 코드: `![샘플 이미지](/assets/images/profile.jpg)`
 
 ---
 
