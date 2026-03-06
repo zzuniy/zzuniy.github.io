@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: KINESIS # the main title
 
-tagline: o Remembered as a Helpful Person # it will display as the subtitle
+tagline: To Remembered as a Helpful Person # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   배우고 기록하며 성장 중
@@ -32,7 +32,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: zzuniy
-  email: example@domain.com # change to your email address
+  email: heojueun050930@gmail.com # change to your email address
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
@@ -40,7 +40,7 @@ social:
     - https://github.com/zzuniy # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/zzuniy
+    - https://linkedin.com/in/zzuniy
 
 # Site Verification Settings
 webmaster_verifications:
