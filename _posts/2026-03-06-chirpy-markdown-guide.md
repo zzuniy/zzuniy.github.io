@@ -52,13 +52,13 @@ Chirpy에서는 링크와 이미지를 쉽게 삽입할 수 있습니다.
 ### 링크
 
 [GitHub 바로가기](https://github.com)  
-> 예시 코드: `[GitHub 바로가기](https://github.com)`
+> 예시 코드: `[GitHub 바로가기](https://profile.com)`
 
 ### 이미지
 
 ![샘플 이미지](/assets/images/sample.jpg)  
 > 이미지는 `/assets/images/` 폴더 안에 넣는 것을 권장합니다.  
-> 예시 코드: `![샘플 이미지](/assets/images/profile.jpg)`
+> 예시 코드: `![샘플 이미지](/assets/images/sample.jpg)`
 
 ---
 
